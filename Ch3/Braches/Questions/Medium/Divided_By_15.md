@@ -1,6 +1,6 @@
 Ask a user to enter a number. The program will examine if the number can be divided by 3, 5, and 15. <br />
 The following is the input and output example. <br />
-Ex1: <br /?
+Ex1: <br />
 Input
 ```
 5
