@@ -1,4 +1,4 @@
-Let a user enter a number (saying N)
+Let a user enter a number (saying N) <br/>
 If N = 3, the output will be as follows.
 ```
 1x1=1 1x2=2 1x3=3
